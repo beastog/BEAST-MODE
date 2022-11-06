@@ -1,6 +1,6 @@
 {
-    "version": "v3.6.1",
-    "versionCode": 30601,
+    "version": "v3.6.2",
+    "versionCode": 30602,
     "zipUrl": "https://github.com/beastog/BEAST-MODE/releases/download/LATEST-BUILD/BEAST-MODE-V3.6.zip",
     "changelog": "https://raw.githubusercontent.com/beastog/BEAST-MODE/main/CHANGELOG.md"
 }
