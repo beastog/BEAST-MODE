@@ -1,11 +1,10 @@
-# VERSION : 3.6
+# VERSION : 3.6.2
 
- [⚡] ADDED 5 DIFFERENT PROFILES
- - 1] AUTOMATIC
- - 2] BATTERY 
- - 3] BALANCED
- - 4] PERFORMANCE
- - 5] GAMING
- -------------------------------------------------
+ CHANGLOGS :- 
+ - FIXED MINOR BUGS 
+ - ADDED FPS BOOST TWEAKS 
+ - ADDED PERFORMANCE BOOST TWEAKS
+ - ADDED ADDED GPU OPTIMIZATION
+ ---------------------------------------------
   TERMUX COMMAND FOR MENU : su -c beastmenu
- -------------------------------------------------
+ ---------------------------------------------
